@@ -16,7 +16,7 @@ This lab demonstrates provisioning a complete Kubernetes cluster using Kubernete
 
 <h2>Program walk-through:</h2>
 
-<p align="center">
+
 
 <h3>Task 1:</h3>
 1. Set the zone and io for the container clusters.
@@ -24,11 +24,13 @@ This lab demonstrates provisioning a complete Kubernetes cluster using Kubernete
 ![io_configured](https://github.com/brireyn/Orchestrating-with-Kubernetes-AWS-/assets/96150916/f48b0546-89d0-4b61-a179-48e70d34303a)
 
 2. Get the Sample code with gsutil cp -r gs://spls/gsp021/* .
+
 3. ![Get_Sample_code](https://github.com/brireyn/Orchestrating-with-Kubernetes-AWS-/assets/96150916/2d263e10-3a9b-4d84-9dea-4d48637ab4ee)
 
 4. Change into the directory used for the lab and list the files working on:  cd orchestrate-with-kubernetes/kubernetes
 5. ls   ![layout_code](https://github.com/brireyn/Orchestrating-with-Kubernetes-AWS-/assets/96150916/e2706dc4-897d-4711-b80d-d8503e13ecf1)
-6. List of files that we are working with ![listed_files_working_with](https://github.com/brireyn/Orchestrating-with-Kubernetes-AWS-/assets/96150916/884d2b02-9d1e-4fdc-8ed3-5a0e5163c208)
+6. 
+7. List of files that we are working with ![listed_files_working_with](https://github.com/brireyn/Orchestrating-with-Kubernetes-AWS-/assets/96150916/884d2b02-9d1e-4fdc-8ed3-5a0e5163c208)
 
 
 <h3>Task 2:</h3> 
